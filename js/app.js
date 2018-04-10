@@ -1,17 +1,7 @@
 /*
  * Create a list that holds all of your cards
  */
-let cardList = [
-    {
-        id: 1,
-        icon: "fa fa-diamond"
-    },
-    {
-        id: 2,
-        icon: "fa fa-diamond"
-    }
-]
-
+let cardList = let cardList = ['fa fa-diamond', 'fa fa-paper-plane-o', 'fa fa-fa-anchor', 'fa fa-bolt', 'fa fa-cube', 'fa fa-anchor', 'fa fa-leaf', 'fa fa-bicycle', 'fa fa-diamond', 'fa fa-bomb', 'fa fa-leaf', 'fa fa-bomb', 'fa fa-bolt', 'fa fa-bicycle', 'fa fa-paper-plane-o', 'fa fa-cube'];
 
 
 
